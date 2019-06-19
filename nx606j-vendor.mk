@@ -48,7 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx606j/proprietary/lib/lib-imsvtextutils.so:system/lib/lib-imsvtextutils.so \
     vendor/nubia/nx606j/proprietary/lib/lib-imsvtutils.so:system/lib/lib-imsvtutils.so \
     vendor/nubia/nx606j/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
-    vendor/nubia/nx606j/proprietary/lib/libnubiaImageAlgorithm.so:system/lib/libnubiaImageAlgorithm.so \
+    vendor/nubia/nx606j/proprietary/lib/libNubiaImageAlgorithm.so:system/lib/libNubiaImageAlgorithm.so \
     vendor/nubia/nx606j/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
     vendor/nubia/nx606j/proprietary/lib/libantradio.so:system/lib/libantradio.so \
     vendor/nubia/nx606j/proprietary/lib/libarcsoft_beautyshot.so:system/lib/libarcsoft_beautyshot.so \
